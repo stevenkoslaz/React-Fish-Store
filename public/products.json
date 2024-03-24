@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "PACIFIC HALIBUT",
+    "description": "Everyone's favorite white fish. We will cut it to the size you need and ship it.",
+    "image": "/images/pachal-i1.jpg",
+    "price": 17.24,
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "title": "LOBSTER",
+    "description": "Thesee tender, mouth-watering beauties are a fantastic hit at and dinner party.",
+    "image": "/images/lb-i2.jpg",
+    "price": 32.52,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "title": "SEA SCALLOPS",
+    "description": "Big, sweet, and tender. True pack scallops from the cold waters of Alaska.",
+    "image": "/images/ss-i3.jpg",
+    "price": 16.84,
+    "status": "unavailable"
+  },
+  {
+    "id": 4,
+    "title": "MAHI MAHI",
+    "description": "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes.",
+    "image": "/images/mahi-i4.jpg",
+    "price": 11.29,
+    "status": "available"
+  }
+]

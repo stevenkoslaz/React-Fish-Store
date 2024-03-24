@@ -1,0 +1,29 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .remove-button, .addsub-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  .addsub-button {
+    width: 30px;
+  }
+  .remove-button:hover, .addsub-button:hover {
+    background-color: #0056b3;
+  }
+
+  .rmv-buttons {
+    display: flex;
+    gap: 3px;
+  }
+  
+  

@@ -1,0 +1,28 @@
+.product-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid rgb(201, 201, 201);
+  border-radius: 5px;
+  width: 33%;
+  min-width: 520px;
+}
+
+.product-list h1,
+h2 {
+  margin: 0;
+}
+
+.product-list h1 {
+  font-size: 4rem;
+  margin-top: -20px;
+}
+
+.product-list h2 {
+  color: orange;
+  margin-top: -15px;
+}
