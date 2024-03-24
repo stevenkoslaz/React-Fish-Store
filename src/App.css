@@ -9,3 +9,8 @@ margin-bottom: 60px;
 .app {
   height: 100vh;
 }
+@media (max-width:1400px) {
+  .main-content {
+    justify-content: unset;
+  }
+}
